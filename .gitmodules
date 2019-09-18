@@ -1,0 +1,6 @@
+[submodule "E-motion-Back"]
+	path = E-motion-Back
+	url = git@github.com:faycalBordjah/E-motion-Back.git
+[submodule "E-motion-front"]
+	path = E-motion-front
+	url = git@github.com:faycalBordjah/E-motion-front.git
